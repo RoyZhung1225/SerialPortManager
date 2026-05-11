@@ -1,4 +1,4 @@
-# SerialTool 流程地圖
+# SerialTool 流程導引
 
 這份文件不是語法說明，而是用來掌握 `SerialTool` 的執行流程與狀態變化。
 
